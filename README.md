@@ -11,13 +11,7 @@
 
 ## Download & Installation
 
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_mechanicjob [esx]/esx_mechanicjob
-```
-
-### Manually
+## Download
 - Download https://github.com/zgagne/esx_bennysjob/archive/master.zip
 - Put it in the `[esx]` directory
 
